@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ae2de496fa8c8b9d",
+        "id": "bdf0d87bb6f70f88",
         "type": "tabs",
         "children": [
           {
-            "id": "6c46913cd0ce5fd2",
+            "id": "aad26f38ce68bda7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Lists.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lists"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 279.5
   },
   "right": {
     "id": "bb848580ee495a18",
@@ -202,22 +198,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be5f657e327450dd",
+  "active": "aad26f38ce68bda7",
   "lastOpenFiles": [
+    "Daily/2026-02-17.md",
+    "Daily/2026-02-18.md",
+    "Computer Science/Programming Languages/Haskell/Catalogue.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Arithmetics.md",
+    "Computer Science/Programming Languages/Haskell",
+    "Computer Science/Programming Languages",
+    "Computer Science",
+    "Welcome.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Lists.md",
+    "create a link.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Pasted image 20260218155018.png",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Tuples.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Types and Typeclasses",
-    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Lists.md",
-    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Arithmetics.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/If Statement.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Functions.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics",
-    "Welcome.md",
-    "Daily/2026-02-18.md",
     "Daily/Daily Template.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell",
     "Undergraduate/2026 Winter/CSCC24H3",
-    "Daily/2026-02-17.md",
     "Undergraduate/2026 Winter/CSCC69H3/Reference Guide for the Pintos Codes.md",
     "Untitled.canvas",
     "Daily",
@@ -225,9 +226,6 @@
     "Untitled.base",
     "2026-01-15.md",
     "Undergraduate/2026 Winter/CSCC63H3/Week 2.md",
-    "Undergraduate/2026 Winter/CSCC63H3",
-    "Undergraduate/2026 Winter",
-    "Undergraduate",
     "Untitled.md"
   ]
 }

@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiComputer",
       "LiImage",
       "LiCode",
       "❄",
@@ -43,5 +44,6 @@
   "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Lists.md": "LiCode",
   "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Tuples.md": "LiCode",
   "Undergraduate/2026 Winter/CSCC24H3/Haskell/Types and Typeclasses": "LiCode",
-  "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Pasted image 20260218155018.png": "LiImage"
+  "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Pasted image 20260218155018.png": "LiImage",
+  "Computer Science": "LiComputer"
 }
