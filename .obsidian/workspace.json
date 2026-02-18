@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "14237f447596863c",
+        "id": "ae2de496fa8c8b9d",
         "type": "tabs",
         "children": [
           {
-            "id": "c86b75ad30e54a66",
+            "id": "6c46913cd0ce5fd2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Undergraduate/CSCC24H3/Haskell/Basics/Lists.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lists"
             }
           }
         ]
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,8 +179,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -185,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,10 +202,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "067149488348d698",
+  "active": "6c46913cd0ce5fd2",
   "lastOpenFiles": [
-    "Daily/2026-02-17.md",
+    "Undergraduate/CSCC24H3/Haskell/Basics/Pasted image 20260218155018.png",
+    "Undergraduate/CSCC24H3/Haskell/Basics/Tuples.md",
+    "Undergraduate/CSCC24H3/Haskell/Types and Typeclasses",
+    "Undergraduate/CSCC24H3/Haskell/Basics/Lists.md",
+    "Undergraduate/CSCC24H3/Haskell/Basics/Arithmetics.md",
+    "Undergraduate/CSCC24H3/Haskell/Basics/If Statement.md",
+    "Undergraduate/CSCC24H3/Haskell/Basics/Functions.md",
+    "Undergraduate/CSCC24H3/Haskell/Basics",
+    "Welcome.md",
+    "Daily/2026-02-18.md",
     "Daily/Daily Template.md",
+    "Undergraduate/CSCC24H3/Haskell",
+    "Undergraduate/CSCC24H3",
+    "Daily/2026-02-17.md",
     "Undergraduate/2026 Winter/CSCC69H3/Reference Guide for the Pintos Codes.md",
     "Untitled.canvas",
     "Daily",
@@ -213,7 +228,6 @@
     "Undergraduate/2026 Winter/CSCC63H3",
     "Undergraduate/2026 Winter",
     "Undergraduate",
-    "Welcome.md",
     "Untitled.md"
   ]
 }
