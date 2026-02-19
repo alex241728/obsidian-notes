@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bdf0d87bb6f70f88",
+        "id": "478fa29c3a72a5d6",
         "type": "tabs",
         "children": [
           {
-            "id": "aad26f38ce68bda7",
+            "id": "26e258ef2d8b3e48",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Undergraduate/2026 Winter/CSCC24H3/Haskell/Types and Typeclasses/Types and Typeclasses.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Types and Typeclasses"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 200
   },
   "right": {
     "id": "bb848580ee495a18",
@@ -198,11 +202,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aad26f38ce68bda7",
+  "active": "26e258ef2d8b3e48",
   "lastOpenFiles": [
-    "Daily/2026-02-17.md",
     "Daily/2026-02-18.md",
     "Computer Science/Programming Languages/Haskell/Catalogue.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Types and Typeclasses/Types and Typeclasses.md",
+    "Daily/2026-02-17.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Arithmetics.md",
     "Computer Science/Programming Languages/Haskell",
     "Computer Science/Programming Languages",
