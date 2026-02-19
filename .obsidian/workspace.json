@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Undergraduate/2026 Winter/CSCC24H3/Haskell/Types and Typeclasses/Types and Typeclasses.md",
+                "file": "Computer Science/Programming Languages/Catalogue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Types and Typeclasses"
+              "title": "Catalogue"
             }
           }
         ]
@@ -204,9 +204,11 @@
   },
   "active": "26e258ef2d8b3e48",
   "lastOpenFiles": [
-    "Daily/2026-02-18.md",
+    "Computer Science/Catalogue.md",
+    "Computer Science/Programming Languages/Catalogue.md",
     "Computer Science/Programming Languages/Haskell/Catalogue.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Types and Typeclasses/Types and Typeclasses.md",
+    "Daily/2026-02-18.md",
     "Daily/2026-02-17.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Arithmetics.md",
     "Computer Science/Programming Languages/Haskell",
