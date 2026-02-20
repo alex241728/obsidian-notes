@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "478fa29c3a72a5d6",
+        "id": "bc3c57a074919243",
         "type": "tabs",
         "children": [
           {
-            "id": "26e258ef2d8b3e48",
+            "id": "ab4e1cad9d2d9370",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-02-19.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-02-19"
+              "title": "New tab"
             }
           }
         ]
@@ -202,38 +198,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26e258ef2d8b3e48",
+  "active": "ab4e1cad9d2d9370",
   "lastOpenFiles": [
-    "Daily/2026-02-18.md",
+    "conflict-files-obsidian-git.md",
     "Daily/2026-02-19.md",
+    "Undergraduate/Undergraduate Index.md",
+    "Undergraduate/2026 Winter/CSCC69H3/Pintos/Threads.md",
+    "Undergraduate/2026 Winter/CSCC69H3/Pintos/Pintos Index.md",
+    "Undergraduate/2026 Winter/CSCC69H3/Pintos/Pasted image 20260219141234.png",
+    "Undergraduate/2026 Winter/CSCC69H3/Pintos",
+    "Undergraduate/2026 Winter/CSCC69H3/CSCC69H3 Index.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Syntax in Functions/Where.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Syntax in Functions/Pattern Matching.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Syntax in Functions/Let.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Syntax in Functions/Guards.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Syntax in Functions",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Haskell Index.md",
+    "Undergraduate/2026 Winter/CSCC24H3/CSCC24H3 Index.md",
+    "Undergraduate/2026 Winter/2026 Winter Index.md",
+    "Computer Science/Programming Languages/Programming Language Index.md",
+    "Computer Science/Programming Languages/Haskell/Haskell Index.md",
+    "Computer Science/Operating Systems/Pintos/Pintos Index.md",
+    "Computer Science/Operating Systems/Pintos",
+    "Computer Science/Operating Systems/OS Index.md",
+    "Computer Science/Operating Systems",
+    "Computer Science/CS Index.md",
+    "Computer Science/Programming Languages/Haskell/Catalogue.md",
+    "2026-02-19.md",
+    "Daily/2026-02-18.md",
     "Computer Science/Programming Languages/Catalogue.md",
     "Computer Science/Catalogue.md",
-    "Computer Science/Programming Languages/Haskell/Catalogue.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Types and Typeclasses/Types and Typeclasses.md",
     "Daily/2026-02-17.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Arithmetics.md",
     "Computer Science/Programming Languages/Haskell",
     "Computer Science/Programming Languages",
     "Computer Science",
-    "Welcome.md",
-    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Lists.md",
-    "create a link.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Pasted image 20260218155018.png",
-    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Tuples.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Types and Typeclasses",
-    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/If Statement.md",
-    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Functions.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics",
-    "Daily/Daily Template.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell",
-    "Undergraduate/2026 Winter/CSCC24H3",
-    "Undergraduate/2026 Winter/CSCC69H3/Reference Guide for the Pintos Codes.md",
-    "Untitled.canvas",
-    "Daily",
-    "Undergraduate/2026 Winter/CSCC69H3",
-    "Untitled.base",
-    "2026-01-15.md",
-    "Undergraduate/2026 Winter/CSCC63H3/Week 2.md",
-    "Untitled.md"
+    "Untitled.canvas"
   ]
 }

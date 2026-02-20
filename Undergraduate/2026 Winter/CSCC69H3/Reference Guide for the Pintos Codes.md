@@ -1,5 +1,4 @@
 # Loader
-# Threads
 
 # Synchronization
 ## Disabling Interrupts
