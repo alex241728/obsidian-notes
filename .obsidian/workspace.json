@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fce902f13a8a5531",
+        "id": "50f9ffddae628a0d",
         "type": "tabs",
         "children": [
           {
-            "id": "83ddcfae9eb28005",
+            "id": "887e409f3d70b115",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Undergraduate/2026 Winter/CSCC24H3/Haskell/Higher Order Functions/Curried Functions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Curried Functions"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 287.5
   },
   "right": {
     "id": "bb848580ee495a18",
@@ -202,10 +202,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83ddcfae9eb28005",
+  "active": "887e409f3d70b115",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Higher Order Functions/Curried Functions.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Higher Order Functions",
     "Daily/2026-02-19.md",
+    "Daily/2026-02-20.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Recursion/Recursion.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Syntax in Functions/Pattern Matching.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Tuples.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Types and Typeclasses/Types and Typeclasses.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Lists.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Haskell Index.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Recursion",
+    "Daily/Daily Template.md",
+    "conflict-files-obsidian-git.md",
     "Undergraduate/Undergraduate Index.md",
     "Undergraduate/2026 Winter/CSCC69H3/Pintos/Threads.md",
     "Undergraduate/2026 Winter/CSCC69H3/Pintos/Pintos Index.md",
@@ -213,11 +224,9 @@
     "Undergraduate/2026 Winter/CSCC69H3/Pintos",
     "Undergraduate/2026 Winter/CSCC69H3/CSCC69H3 Index.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Syntax in Functions/Where.md",
-    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Syntax in Functions/Pattern Matching.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Syntax in Functions/Let.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Syntax in Functions/Guards.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Syntax in Functions",
-    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Haskell Index.md",
     "Undergraduate/2026 Winter/CSCC24H3/CSCC24H3 Index.md",
     "Undergraduate/2026 Winter/2026 Winter Index.md",
     "Computer Science/Programming Languages/Programming Language Index.md",
@@ -228,20 +237,11 @@
     "Computer Science/Operating Systems",
     "Computer Science/CS Index.md",
     "Computer Science/Programming Languages/Haskell/Catalogue.md",
-    "2026-02-19.md",
-    "Daily/2026-02-18.md",
-    "Computer Science/Programming Languages/Catalogue.md",
-    "Computer Science/Catalogue.md",
-    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Types and Typeclasses/Types and Typeclasses.md",
-    "Daily/2026-02-17.md",
-    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Arithmetics.md",
     "Computer Science/Programming Languages/Haskell",
     "Computer Science/Programming Languages",
     "Computer Science",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Pasted image 20260218155018.png",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Types and Typeclasses",
-    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics",
-    "Undergraduate/2026 Winter/CSCC24H3/Haskell",
     "Untitled.canvas"
   ]
 }
