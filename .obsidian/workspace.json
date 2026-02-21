@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "50f9ffddae628a0d",
+        "id": "dc2505a225b7a206",
         "type": "tabs",
         "children": [
           {
-            "id": "887e409f3d70b115",
+            "id": "7e39ac7cefff79b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Undergraduate/2026 Winter/CSCC24H3/Haskell/Higher Order Functions/Curried Functions.md",
+                "file": "Undergraduate/2026 Winter/CSCC63H3/4 Basic Complexity/4.2 Time Hierarchy Theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curried Functions"
+              "title": "4.2 Time Hierarchy Theorem"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 299.5
   },
   "right": {
     "id": "bb848580ee495a18",
@@ -202,12 +202,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "887e409f3d70b115",
+  "active": "7e39ac7cefff79b2",
   "lastOpenFiles": [
+    "Undergraduate/2026 Winter/CSCC63H3/4 Basic Complexity/4.1 Time Complexity Class.md",
+    "Undergraduate/2026 Winter/CSCC63H3/4 Basic Complexity/4.2 Time Hierarchy Theorem.md",
+    "Undergraduate/2026 Winter/CSCC63H3/4 Basic Complexity/4 time hierarchy.pdf",
+    "Undergraduate/2026 Winter/CSCC63H3/2 Models/Complexity Relationships between Models.md",
+    "Daily/2026-02-20.md",
+    "Daily/2026-02-19.md",
+    "Undergraduate/2026 Winter/CSCC63H3/2 Models",
+    "Undergraduate/2026 Winter/CSCC63H3/0 Asymptotics/Measuring Complexity.md",
+    "Undergraduate/2026 Winter/CSCC63H3/4 Basic Complexity",
+    "Undergraduate/2026 Winter/2026 Winter Index.md",
+    "Undergraduate/2026 Winter/CSCC63H3/0 Asymptotics",
+    "Undergraduate/2026 Winter/CSCC63H3",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Higher Order Functions/Curried Functions.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Higher Order Functions",
-    "Daily/2026-02-19.md",
-    "Daily/2026-02-20.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Recursion/Recursion.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Syntax in Functions/Pattern Matching.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Tuples.md",
@@ -228,20 +238,10 @@
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Syntax in Functions/Guards.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Syntax in Functions",
     "Undergraduate/2026 Winter/CSCC24H3/CSCC24H3 Index.md",
-    "Undergraduate/2026 Winter/2026 Winter Index.md",
     "Computer Science/Programming Languages/Programming Language Index.md",
     "Computer Science/Programming Languages/Haskell/Haskell Index.md",
-    "Computer Science/Operating Systems/Pintos/Pintos Index.md",
     "Computer Science/Operating Systems/Pintos",
-    "Computer Science/Operating Systems/OS Index.md",
-    "Computer Science/Operating Systems",
-    "Computer Science/CS Index.md",
-    "Computer Science/Programming Languages/Haskell/Catalogue.md",
-    "Computer Science/Programming Languages/Haskell",
-    "Computer Science/Programming Languages",
-    "Computer Science",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Pasted image 20260218155018.png",
-    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Types and Typeclasses",
     "Untitled.canvas"
   ]
 }
