@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6b87dd97d3286e6a",
+        "id": "dc2505a225b7a206",
         "type": "tabs",
         "children": [
           {
-            "id": "14d896503b4fa985",
+            "id": "7e39ac7cefff79b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Undergraduate/2026 Winter/CSCC69H3/5 Virtual Memory/5.1 Virtual Memory.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "5.1 Virtual Memory"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 299.5
   },
   "right": {
     "id": "bb848580ee495a18",
@@ -199,50 +199,46 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14d896503b4fa985",
+  "active": "7e39ac7cefff79b2",
   "lastOpenFiles": [
-    "Undergraduate/2026 Winter/CSCC69H3/Pintos/Pintos Index.md",
+    "Undergraduate/2026 Winter/CSCC63H3/4 Basic Complexity/4.2 Time Hierarchy Theorem.md",
     "Undergraduate/2026 Winter/CSCC69H3/5 Virtual Memory/C69_week5-VirtualMemory_1slide.pdf",
     "Undergraduate/2026 Winter/CSCC69H3/5 Virtual Memory/5.1 Virtual Memory.md",
-    "Undergraduate/2026 Winter/CSCC69H3/4 Processes & Threads/4.1 Processes & Threads.md",
-    "Undergraduate/2026 Winter/CSCC69H3/4 Processes & Threads/C69_Week4_processes_threads_1slide.pdf",
-    "Undergraduate/2026 Winter/CSCC69H3/5 T/Untitled",
     "Undergraduate/2026 Winter/CSCC69H3/5 Virtual Memory",
-    "Daily/2026-02-22.md",
-    "Undergraduate/2026 Winter/CSCC69H3/4 Processes & Threads/Untitled",
+    "Undergraduate/2026 Winter/CSCC69H3/4 Processes & Threads/C69_Week4_processes_threads_1slide.pdf",
+    "Undergraduate/2026 Winter/CSCC69H3/4 Processes & Threads/4.1 Processes & Threads.md",
     "Undergraduate/2026 Winter/CSCC69H3/4 Processes & Threads",
-    "Daily/2026-02-21.md",
-    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Syntax in Functions/Let.md",
-    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Syntax in Functions/Where.md",
-    "Daily/2026-02-20.md",
-    "Untitled.md",
-    "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP/5.2 The Class NP.md",
-    "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP/5.3 A Search Formulation.md",
-    "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP/5.1 The Class P.md",
     "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP/Assignment 5.md",
+    "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP/5.3 A Search Formulation.md",
+    "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP/5.2 The Class NP.md",
+    "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP/5.1 The Class P.md",
     "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP",
-    "Undergraduate/2026 Winter/CSCC63H3/2 Models/Complexity Relationships between Models.md",
-    "Undergraduate/2026 Winter/CSCC63H3/4 Basic Complexity/4.2 Time Hierarchy Theorem.md",
+    "Daily/2026-02-22.md",
+    "Daily/2026-02-21.md",
     "Undergraduate/2026 Winter/CSCC63H3/4 Basic Complexity/4.1 Time Complexity Class.md",
     "Undergraduate/2026 Winter/CSCC63H3/4 Basic Complexity/4 time hierarchy.pdf",
+    "Undergraduate/2026 Winter/CSCC63H3/2 Models/Complexity Relationships between Models.md",
+    "Daily/2026-02-20.md",
+    "Daily/2026-02-19.md",
+    "Undergraduate/2026 Winter/CSCC63H3/2 Models",
     "Undergraduate/2026 Winter/CSCC63H3/0 Asymptotics/Measuring Complexity.md",
     "Undergraduate/2026 Winter/CSCC63H3/4 Basic Complexity",
-    "Undergraduate/2026 Winter/CSCC63H3/2 Models",
-    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Recursion/Recursion.md",
+    "Undergraduate/2026 Winter/2026 Winter Index.md",
+    "Undergraduate/2026 Winter/CSCC63H3/0 Asymptotics",
+    "Undergraduate/2026 Winter/CSCC63H3",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Higher Order Functions/Curried Functions.md",
-    "Daily/2026-02-19.md",
-    "Undergraduate/2026 Winter/CSCC69H3/Pintos/Threads.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Recursion/Recursion.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Syntax in Functions/Pattern Matching.md",
-    "create a link.md",
-    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Haskell Index.md",
-    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Syntax in Functions/Guards.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Tuples.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Types and Typeclasses/Types and Typeclasses.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Lists.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Haskell Index.md",
+    "Daily/Daily Template.md",
+    "conflict-files-obsidian-git.md",
+    "Undergraduate/Undergraduate Index.md",
     "Undergraduate/2026 Winter/CSCC69H3/Pintos/Pasted image 20260219141234.png",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Pasted image 20260218155018.png",
     "Untitled.canvas"
