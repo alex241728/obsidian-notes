@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dc2505a225b7a206",
+        "id": "7cdbd5ae983ff8f4",
         "type": "tabs",
         "children": [
           {
-            "id": "7e39ac7cefff79b2",
+            "id": "e0a878fd422c1976",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -192,6 +188,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -202,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e39ac7cefff79b2",
+  "active": "e0a878fd422c1976",
   "lastOpenFiles": [
     "Undergraduate/2026 Winter/CSCC63H3/4 Basic Complexity/4.2 Time Hierarchy Theorem.md",
     "Undergraduate/2026 Winter/CSCC69H3/5 Virtual Memory/C69_week5-VirtualMemory_1slide.pdf",
