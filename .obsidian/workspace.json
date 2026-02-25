@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP/Assignment 5.md",
+                "file": "Daily/2026-02-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assignment 5"
+              "title": "2026-02-22"
             }
           }
         ]
@@ -207,6 +207,7 @@
   },
   "active": "e0a878fd422c1976",
   "lastOpenFiles": [
+    "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP/Assignment 5.md",
     "Undergraduate/2026 Winter/CSCC63H3/4 Basic Complexity/4.2 Time Hierarchy Theorem.md",
     "Undergraduate/2026 Winter/CSCC69H3/5 Virtual Memory/C69_week5-VirtualMemory_1slide.pdf",
     "Undergraduate/2026 Winter/CSCC69H3/5 Virtual Memory/5.1 Virtual Memory.md",
@@ -214,7 +215,6 @@
     "Undergraduate/2026 Winter/CSCC69H3/4 Processes & Threads/C69_Week4_processes_threads_1slide.pdf",
     "Undergraduate/2026 Winter/CSCC69H3/4 Processes & Threads/4.1 Processes & Threads.md",
     "Undergraduate/2026 Winter/CSCC69H3/4 Processes & Threads",
-    "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP/Assignment 5.md",
     "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP/5.3 A Search Formulation.md",
     "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP/5.2 The Class NP.md",
     "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP/5.1 The Class P.md",
