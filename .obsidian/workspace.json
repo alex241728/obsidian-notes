@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6fce78d1f5601beb",
+        "id": "7f28a6a1aaee10fd",
         "type": "tabs",
         "children": [
           {
-            "id": "54e8ccb2110dd2df",
+            "id": "64cd5f344925a21d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP/Assignment 5.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Assignment 5"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Question",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +70,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 200
   },
   "right": {
     "id": "bb848580ee495a18",
@@ -154,13 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP/Assignment 5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Assignment 5"
+              "title": "Outline"
             }
           },
           {
@@ -205,11 +201,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54e8ccb2110dd2df",
+  "active": "64cd5f344925a21d",
   "lastOpenFiles": [
-    "Undergraduate/2026 Winter/CSCC24H3/7 Haskell/5 Haskell.md",
+    "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP/Tutorial 6/Tutorial 6 - NP-completeness.pdf",
+    "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP/Tutorial 6/Tutorial 6.md",
+    "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP/Tutorial 6",
+    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Lists.md",
     "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP/Assignment 5.md",
+    "Undergraduate/2026 Winter/CSCC24H3/7 Haskell/5 Haskell.md",
     "Undergraduate/2026 Winter/CSCC24H3/7 Haskell/haskell_pre.pdf",
+    "Daily/2026-02-26.md",
     "Undergraduate/2026 Winter/CSCC69H3/Tutorial 6.md",
     "Undergraduate/2026 Winter/CSCC24H3/7 Haskell",
     "Daily/2026-02-25.md",
@@ -231,18 +232,13 @@
     "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP",
     "Daily/2026-02-21.md",
     "Undergraduate/2026 Winter/CSCC63H3/4 Basic Complexity/4.1 Time Complexity Class.md",
-    "Undergraduate/2026 Winter/CSCC63H3/4 Basic Complexity/4 time hierarchy.pdf",
     "Undergraduate/2026 Winter/CSCC63H3/2 Models/Complexity Relationships between Models.md",
     "Daily/2026-02-20.md",
     "Daily/2026-02-19.md",
-    "Undergraduate/2026 Winter/CSCC63H3/2 Models",
     "Undergraduate/2026 Winter/CSCC63H3/0 Asymptotics/Measuring Complexity.md",
     "Undergraduate/2026 Winter/2026 Winter Index.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Higher Order Functions/Curried Functions.md",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Recursion/Recursion.md",
-    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Syntax in Functions/Pattern Matching.md",
-    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Tuples.md",
-    "Undergraduate/2026 Winter/CSCC24H3/Haskell/Types and Typeclasses/Types and Typeclasses.md",
     "Undergraduate/2026 Winter/CSCC69H3/Pintos/Pasted image 20260219141234.png",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Pasted image 20260218155018.png"
   ]
