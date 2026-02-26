@@ -13,14 +13,28 @@ Let a verifier $U$ with an input $(G,k)$ and a witness $S \subseteq V$ that
 2. Checks if the vertices in $S$ are pair-wised connected. If so, returns 1. Otherwise, returns 0.
 $U$ verifies $CLIQUE$ in $O(|V|^2)$, which is a polytime. So, $CLIQUE \in NP$.
 
-Let a verifier $V$ with an input $(x_{1}, x_{2}, \dots, x_{n}, t)$ and a witness $S \subseteq [n]$ that
+Let a verifier $V$ with a witness $S \subseteq [n]$ that
 1. $\forall S \in [n] \ \text{sum all the } x_{i}$.
 2. Check if the sum is equal to $t$. If so, returns 1. Otherwise, returns 0.
 $V$ verifies $SUBSET-SUM$ in $O(n \cdot C)$ where $C$ is the number of bits to represent $x_{1}, \dots, x_{n}$, which is a polytime. So, $SUBSET-SUM \in NP$
 
-Let a verifier V with an input 
+Let a verifier V with a witness $x = x_{1} x_{2} \dots x_{n} \text{ where } x_{i} \in \{0,1\} \text{ for all } i \in [n]$ that
+1. For all $i \in [n]$,
+	1. Evaluates $q_{i}$ with $x_{i}$.
+	2. If $q_{i} \neq 0$, returns 0.
+2. Returns 1.
+V verifies $QUAD$ in $n \cdot O(n^2) \subseteq O(n^3)$, which is a polytime. So, $QUAD \in NP$.
 ### Question 3
+$DIOPHANTINE_{f} \not\in NP \text{ for an arbitrary } f$.
+
+Reason:
+If $DIOPHANTINE_{f} in NP \text{ for an arbitrary } f$, then the witness must have the length $\leq poly(k)$. However, the length of the input, $k$, is not bounded in this language. So, this language is not in $NP$. 
+
+In Question 2 Part 2, we are able to choose a subset contains at most $n$ elements, as the witness. So, the size of the subset is bounded by the length of the input.
+In Question 2 Part 3, we are able to choose a witness of length $n$, which is bounded by the length of the input.
+Therefore, we can prove the two languages are in $NP$.
 ### Question 4
+
 ### Question 5
 $NP \subseteq RE$ is true.
 Proof:
@@ -55,5 +69,7 @@ $L' \in TIME[n \cdot 2^{O(poly(n))}] \subseteq TIME[2^{n^{O(1)}}]]$. So, $PSPACE
 4. False.
 ## 1.2 Search vs decision
 ### Question 9
+The statement is true.
+
 ### Question 10
 ### Question 11
