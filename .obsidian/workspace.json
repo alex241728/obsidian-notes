@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-03-24.md",
+                "file": "Daily/2026-03/2026-03-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-24"
+              "title": "2026-03-25"
             }
           }
         ]
@@ -204,10 +204,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e6b348faded9f74",
+  "active": "be5f657e327450dd",
   "lastOpenFiles": [
+    "Daily/2026-03/2026-03-24.md",
+    "Daily/2026-03/2026-03-25.md",
     "Daily/2026-03/2026-03-23.md",
-    "2026-03-24.md",
     "Daily/2026-03/Untitled.md",
     "Daily/2026-03/2026-03-22.md",
     "Daily/2026-03/2026-03-20.md",
@@ -240,7 +241,6 @@
     "Untitled.canvas",
     "Undergraduate/2026 Winter/CSCC63H3/4 Basic Complexity/4.2 Time Hierarchy Theorem.md",
     "Undergraduate/2026 Winter/CSCC69H3/5 Virtual Memory/C69_week5-VirtualMemory_1slide.pdf",
-    "Undergraduate/2026 Winter/CSCC69H3/5 Virtual Memory/5.1 Virtual Memory.md",
     "Undergraduate/2026 Winter/CSCC69H3/5 Virtual Memory",
     "Undergraduate/2026 Winter/CSCC69H3/4 Processes & Threads/C69_Week4_processes_threads_1slide.pdf",
     "Undergraduate/2026 Winter/CSCC69H3/Pintos/Pasted image 20260219141234.png",
