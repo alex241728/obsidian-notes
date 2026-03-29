@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8fa2fb7ebf30463a",
+        "id": "dee6b0f9bce794ca",
         "type": "tabs",
         "children": [
           {
-            "id": "0efe866a4de8ed4e",
+            "id": "e08361fbed6c2de9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-03/2026-03-28.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2026-03-28"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -188,24 +192,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:新建数据库": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0efe866a4de8ed4e",
+  "active": "e08361fbed6c2de9",
   "lastOpenFiles": [
-    "Daily/2026-03/2026-03-28.md",
     "Daily/2026-03/2026-03-27.md",
+    "Daily/2026-03/2026-03-28.md",
     "conflict-files-obsidian-git.md",
     "Daily/2026-03/2026-03-26.md",
     "Daily/2026-03/2026-03-24.md",
