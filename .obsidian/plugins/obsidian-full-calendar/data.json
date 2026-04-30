@@ -2,7 +2,7 @@
   "calendarSources": [
     {
       "type": "local",
-      "color": "hsl(calc(258 - 1), calc(88% * 1.01), calc(66% * 1.075))",
+      "color": "hsl(258, 88%, 66%)",
       "directory": "Daily"
     }
   ],

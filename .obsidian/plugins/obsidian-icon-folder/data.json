@@ -36,12 +36,11 @@
   },
   "Undergraduate": "LiSchool",
   "Undergraduate/2026 Winter": "❄",
+  "Undergraduate/2026 Winter/CSCC24H3/CSCC24H3 Index.md": "LiColumns2",
   "Undergraduate/2026 Winter/CSCC69H3/CSCC69H3 Index.md": "LiColumns2",
   "Undergraduate/2026 Winter/2026 Winter Index.md": "LiColumns2",
   "Undergraduate/Undergraduate Index.md": "LiColumns2",
-  "Daily": "LiCalendar",
-  "Daily/Daily Template.md": "LiCalendar",
-  "Undergraduate/2026 Winter/CSCC24H3/CSCC24H3 Index.md": "LiColumns2",
-  "Undergraduate/2026 Winter/CSCC63H3/CSCC63H3 Index.md": "LiColumns2",
-  "Undergraduate/2026 Winter/CSCD84H3/CSCD84H3 Index.md": "LiColumns2"
+  "Undergraduate/2026 Winter/CSCC24H3": "LiCode",
+  "Undergraduate/2026 Winter/CSCC69H3": "LiComputer",
+  "Daily": "LiCalendar"
 }
