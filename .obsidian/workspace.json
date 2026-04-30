@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "s",
+                "query": "tag:#chomskys-hierarchy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa2daa15de2eb2b5",
+  "active": "067149488348d698",
   "lastOpenFiles": [
     "Undergraduate/2026 Winter/2026 Winter Index.md",
     "Undergraduate/2026 Winter/CSCC24H3/CSCC24H3 Index.md",

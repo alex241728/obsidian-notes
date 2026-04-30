@@ -12,11 +12,14 @@
 * **Tutorials**: [Week 2 Tutorial](https://utoronto-my.sharepoint.com/:b:/r/personal/alexwentao_yang_mail_utoronto_ca/Documents/GoodNotes/CSCC24H3/Week%202/tutorial02_pre.pdf?csf=1&web=1&e=WjWU5L)
 ## Week 3 - 5
 *   **Topic**: Racket
-*   **Resource**: [Racket](https://utoronto-my.sharepoint.com/:b:/r/personal/alexwentao_yang_mail_utoronto_ca/Documents/GoodNotes/CSCC24H3/Week%203%20-%205/racket_pre.pdf?csf=1&web=1&e=L7EJDr)
+*   **Resource**: [Racket]([https://utoronto-my.sharepoint.com/:b:/r/personal/alexwentao_yang_mail_utoronto_ca/Documents/GoodNotes/CSCC24H3/Week%203%20-%205/racket_pre.pdf?csf=1&web=1&e=L7EJDr])
 *   **Tags**: #racket #expression #datatype #evaluation #special-forms #lambda #indentation #high-order-procedures #parameter-list #scope-and-evaluation #closure #recursion #tail-recursion #cotinuation-passing-style #cps #pure-functional-languages #formal-proofs #fp
 * **Tutorials**: 
 ## Week 6
-
+*   **Topic**: Haskell
+*   **Resource**: [Haskell](https://utoronto-my.sharepoint.com/:b:/r/personal/alexwentao_yang_mail_utoronto_ca/Documents/GoodNotes/CSCC24H3/Week%203%20-%205/racket_pre.pdf?csf=1&web=1&e=L7EJDr)
+*   **Tags**: #racket #expression #datatype #evaluation #special-forms #lambda #indentation #high-order-procedures #parameter-list #scope-and-evaluation #closure #recursion #tail-recursion #cotinuation-passing-style #cps #pure-functional-languages #formal-proofs #fp
+* **Tutorials**: 
 ## Week 7 - 8
 ## Week 9
 ## Week 10
