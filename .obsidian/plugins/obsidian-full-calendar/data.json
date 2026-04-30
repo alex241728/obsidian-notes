@@ -1,9 +1,9 @@
 {
   "calendarSources": [
     {
-      "type": "dailynote",
-      "color": "#ff0000",
-      "heading": "📅 {{date:YYYY-MM-DD}} ({{date:dddd}})"
+      "type": "local",
+      "color": "hsl(calc(258 - 1), calc(88% * 1.01), calc(66% * 1.075))",
+      "directory": "Daily"
     }
   ],
   "defaultCalendar": 0,
