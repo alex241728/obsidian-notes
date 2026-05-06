@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "265b0c972d201259",
+        "id": "0d6b5649e275e716",
         "type": "tabs",
         "children": [
           {
-            "id": "4b5335e39b28fef6",
+            "id": "2272b3e4aff4bb91",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
+              "type": "markdown",
+              "state": {
+                "file": "Undergraduate/The Analysis And Design of Linear Circuits/Chapter 2 - Basic Circuit Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 2 - Basic Circuit Analysis"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 200
   },
   "right": {
     "id": "bb848580ee495a18",
@@ -168,6 +172,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "b919d51a3f4ed1f6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
           }
         ],
         "currentTab": 5
@@ -192,44 +206,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b5335e39b28fef6",
+  "active": "2272b3e4aff4bb91",
   "lastOpenFiles": [
+    "Undergraduate/The Analysis And Design of Linear Circuits/The Analysis and Design of Linear Circuits.pdf",
+    "Undergraduate/The Analysis And Design of Linear Circuits/Chapter 2 - Basic Circuit Analysis.md",
+    "Undergraduate/The Analysis And Design of Linear Circuits",
+    "Undergraduate/Untitled.md",
+    "Daily/2026-06-09 Convocation.md",
+    "Daily/2026-05-02 Ottawa travel plan.md",
     "Daily/2026-05-02 Graduation photo.md",
     "Daily/2026-05-02 East US travel plan.md",
-    "Daily/2026-05-02 Ottawa travel plan.md",
+    "Daily/2026-05-01 Rent regalia.md",
     "Daily/2026-05-01 Record your name.md",
     "Daily/2026-05-01 Guest ticket.md",
-    "Daily/2026-06-09 Convocation.md",
-    "Daily/2026-05-01 Rent regalia.md",
-    "create a link.md",
-    "Daily/2026-05-01 Ch.md",
     "Daily/2026-05-01 ECE212H3 Textbook Ch. 4.md",
     "Daily/2026-05-01 ECE212H3 Textbook Ch. 3.md",
-    "Daily/2026-04-30 ECE212H3 Textbook Ch. 1.md",
     "Daily/2026-04-30 ECE212H3 Textbook Ch. 2.md",
+    "Daily/2026-04-30 ECE212H3 Textbook Ch. 1.md",
     "Daily/2026-04-30.md",
+    "Daily/2026-04-01 hhh.md",
+    "Daily/Daily Template.md",
     "Untitled.md",
-    "Undergraduate/2026 Winter/CSCC24H3/CSCC24H3 Index.md",
-    "Daily/2026-04/2026-04-21.md",
+    "Undergraduate/2026 Winter/2026 Winter Index.md",
+    "Undergraduate/Undergraduate Index.md",
     "Undergraduate/2026 Winter/LINA02H3/LINA02H3 Index.md",
-    "Undergraduate/2026 Winter/LINA02H3",
     "Undergraduate/2026 Winter/CSCD84H3/CSCD84H3 Index.md",
+    "Undergraduate/2026 Winter/CSCC69H3/CSCC69H3 Index.md",
+    "Undergraduate/2026 Winter/LINA02H3",
     "Undergraduate/2026 Winter/CSCD84H3",
     "Undergraduate/2026 Winter/CSCC63H3/CSCC63H3 Index.md",
-    "Daily/2026-04/2026-04-23.md",
-    "Daily/2026-04/2026-04-22.md",
-    "Daily/2026-04/2026-04-20.md",
-    "Daily/2026-04/2026-04-19.md",
-    "Daily/2026-04/2026-04-14.md",
-    "Daily/2026-04/2026-04-16.md",
+    "Undergraduate/2026 Winter/CSCC69H3/Tutorial 6.md",
+    "Undergraduate/2026 Winter/CSCC24H3/CSCC24H3 Index.md",
+    "Undergraduate/2026 Winter/CSCC24H3/Racket",
     "Daily/2026-04",
     "Daily/2026-03",
     "Daily/2026-02",
     "Undergraduate/2026 Winter/CSCC24H3/7 Haskell/haskell_pre.pdf",
     "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP/Tutorial 6/Tutorial 6 - NP-completeness.pdf",
-    "Undergraduate/2026 Winter/CSCC63H3/5 P vs NP/Tutorial 6",
-    "Undergraduate/2026 Winter/CSCC24H3/7 Haskell",
-    "Undergraduate/2026 Winter/CSCC69H3/5 Virtual Memory/C69_week5-VirtualMemory_1slide.pdf",
     "Undergraduate/2026 Winter/CSCC69H3/Pintos/Pasted image 20260219141234.png",
     "Undergraduate/2026 Winter/CSCC24H3/Haskell/Basics/Pasted image 20260218155018.png",
     "Untitled.canvas"
