@@ -1,10 +1,4 @@
 [
   "obsidian-git",
-  "automatic-table-of-contents",
-  "obsidian-latex-suite",
-  "periodic-notes",
-  "obsidian-tasks-plugin",
-  "shiki-highlighter",
-  "pdf-plus",
-  "obsidian-full-calendar"
+  "obsidian-latex-suite"
 ]
