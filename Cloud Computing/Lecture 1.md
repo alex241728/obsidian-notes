@@ -1,0 +1,151 @@
+---
+tags:
+  - cloud-computing
+  - edge-computing
+  - IaaS
+  - PaaS
+---
+
+# 1. Cloud Computing
+
+**Cloud Computing**: On-demand access to shared computing resources (e.g. servers, storage, databases, networking, software) that can be quickly created, scaled, and released as needed.
+
+**Example**: Backing up photos to iCloud/Google Photos, Using ChatGPT/Claude
+
+## Characteristics (NIST Model) 
+
+1. **On-demand self-service**: Create and manage resources when needed, without manual provider assistance.
+2. **Broad network access**:  Access resources over a network from different devices and locations.
+3. **Resource pooling**:  Provider resources are shared across customers while remaining logically isolated.
+4. **Rapid elasticity**: Scale resources up or down quickly as demand changes.
+5. **Measured service**: Scale resources up or down quickly as demand changes. 
+
+---
+
+## On-Premises vs. Cloud 
+
+| Dimension                   | Traditional On-Premises                    | Cloud Computing (Public)                              |
+| :-------------------------- | :----------------------------------------- | :---------------------------------------------------- |
+| **Physical Infrastructure** | Managed by the organization                | Abstracted from users / Managed by the cloud provider |
+| **Getting Resources**       | Often requires purchasing and manual setup | Resources can be created on demand                    |
+| **Scalability**             | Limited by available local capacity        | Resources can scale with demand                       |
+| **Cost Model**              | Higher upfront investment                  | Often usage- or capacity-based                        |
+
+---
+
+## Cloud Deployment Models 
+
+- **Public Cloud**: Cloud infrastructure offered by a third-party provider (e.g., AWS, Google Cloud) 
+	- Physical infrastructure is shared across customers, with resources logically isolated
+	- Easy to access & scale, cost-effective, but less control
+- **Private Cloud**: Cloud infrastructure used exclusively by one organization
+	- Can run in the organization's own data center or be hosted by a third party
+	- More control, more management & operational effort
+- **Hybrid Cloud**: Combines private and public cloud
+	- Workloads use different environments based on needs
+	- Useful when organizations need different levels of control, scalability, or compliance
+- **Community Cloud**: Shared by organizations with common requirements (e.g., government, healthcare, or research).
+	- Infrastructure and policies can be designed around shared requirements
+- **Multi-Cloud**: A strategy using services from multiple public cloud providers
+	- Access best-fit services
+	- Reduce dependence on a single provider
+	- Meet geographic or organizational requirements
+	- Trade-off: More providers also mean more operational complexity
+
+---
+
+## Benefits
+
+- **Cost Efficiency**: Lower upfront investment; pay for what you use
+- **Speed**: Get computing resources quickly
+- **Scalability**: Increase or decrease resources as demand changes
+- **Reliability**: Use redundancy and backup to improve availability and recovery
+
+---
+
+# 2. Edge Computing
+
+**Edge Computing**: A distributed computing model that places computation and storage closer to users or data sources.
+
+![[edge_computing.png]]
+
+## Complement, Not Replace 
+
+> Edge computing complements cloud computing rather than replacing it. 
+> - **Example: Netflix uses both cloud and edge infrastructure** 
+> 	- AWS cloud supports many backend systems, data processing, and storage 
+> 	- Its own edge network (Open Connect) stores popular video content closer to users 
+> 	- Reduce the distance video data must travel during streaming
+
+---
+## Edge Node 
+Computing resource located closer to users or data sources than a central cloud data center: 
+- Process data locally 
+- Respond to requests quickly 
+- Reduce latency and network load 
+- Improve data privacy and resilience
+
+---
+
+## Benefits
+
+- **Lower Latency**: Process data closer to users and devices for faster response
+- **Bandwidth Efficiency**: Send less data to central cloud
+- **Resilience**: Continue some operation when cloud connectivity is limited or unavailable
+
+---
+
+## Challenges
+
+- **Management Complexity**: Monitor and maintain many distributed edge nodes 
+- **Data Consistency**: Keep data synchronized across edge and cloud 
+- **Security**: Protect distributed edge nodes from compromise 
+	- Hacked nodes may leak data or disrupt system behavior
+
+---
+
+# Cloud Service Models
+
+## Infrastructure as a Service (IaaS)
+
+> [!info] 
+> **What is Infrastructure?**
+> 
+> Foundational physical and virtual resources needed to run computing systems:
+> - **Compute**: Physical servers, virtual machines (VMs), CPUs
+> - **Storage**: Hard drives (HDDs), Solid-State Drives (SSDs), block/object storage
+> - **Networking**: Routers, switches, firewalls, IP addresses, load balancers
+> - **Facilities**: Data centers, power, cooling
+
+Provides computing infrastructure (e.g., VMs, storage, networking).
+
+- **Provider manages**: Physical servers, storage hardware, networking infrastructure
+- **User manages**: Operating system, runtime, applications
+- **Key Benefit**: Dynamically add or remove resources based on demand; pay for what you use
+- **Use Cases**: Web hosting, dev/test environments
+
+**Example**: DigitalOcean Droplets provide VMs that users can configure and manage
+
+---
+
+## Platform as a Service (PaaS)
+
+Provides a managed environment for deploying and running applications.
+
+- **Provider manages**: Physical infrastructure, operating system, runtime, and networking
+- **User manages**: Application code and configuration
+- **Key Benefit**: Reduces infrastructure management; can automatically scale applications based on demand
+- **Use Cases**: Web and mobile applications
+
+**Example**: Fly.io provides a managed platform for deploying applications across regions
+
+---
+
+### IaaS vs. PaaS
+
+| Feature | IaaS | PaaS |
+| :--- | :--- | :--- |
+| **Provider Manages** | Physical infrastructure | Infrastructure and operating environment |
+| **User Manages** | OS, runtime, applications | Application and configuration |
+| **Control** | Higher | Lower |
+| **Management Effort** | Higher | Lower |
