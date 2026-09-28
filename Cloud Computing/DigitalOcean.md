@@ -21,6 +21,25 @@ Focus on **core IaaS concepts** without unnecessary complexity.
 
 - Compute: Droplets
 - Storage: Volumes Block Storage, Spaces Object Storage
+
+## Access Droplet via SSH
+
+SSH into Droplet:
+```bash
+ssh root@<droplet-ip>
+```
+- `root` is the default administrative user for this example
+- Production systems should typically use a non-root user with `sudo`
+
+Verify access:
+```bash
+whoami
+```
+
+> [!Warning]
+> Make sure you are using the correct SSH key
+> Verify firewall settings in DigitalOcean dashboard
+
 ---
 
 # DigitalOcean Metadata API
