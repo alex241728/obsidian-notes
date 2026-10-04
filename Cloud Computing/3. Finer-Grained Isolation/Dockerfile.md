@@ -1,8 +1,24 @@
 ---
 tags:
-  - docker
   - dockerfile
-  - instructions
+---
+
+**Dockerfile**: Instructions for building an image
+
+# Workflow
+
+1. Write a `Dockerfile` to define how the image is built
+
+2. Build an image from the Dockerfile:
+```sh
+docker build -t <image-name>
+```
+
+3. Create and start a container from the image:
+```sh
+docker run <image-name>
+```
+
 ---
 
 # Common Dockerfile Instructions

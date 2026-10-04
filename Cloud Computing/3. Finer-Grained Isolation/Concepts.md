@@ -1,8 +1,15 @@
 ---
 tags:
+  - containers
   - docker
-  - containerization
 ---
+# Finer-Grained Isolation
+
+
+
+---
+
+# Containerization
 
 **Containerization** packages an application and its runtime environment into a portable **container image**. The image defines a reproducible runtime environment.
 
@@ -12,7 +19,7 @@ Containerization ensures consistent environments:
 	- Each container starts from the same packaged runtime environment (same runtime, libraries, dependencies, ...)
 - Fewer environment differences $\rightarrow$ more consistent application behavior
 
-# Container
+## Container
 an isolated runtime instance created from that image.
 
 A **container image** can include:
@@ -32,3 +39,9 @@ Containers integrate naturally with cloud service models:
 - **IaaS**: Run containers on VMs for more efficient resource use.
 - **PaaS**: Platforms may use containers to package and run applications behind the scenes. Developers focus on application code rather than managing the underlying containers.
 - **SaaS**: Providers may use containers internally to deploy and scale application components.
+
+---
+
+# Docker
+
+[[Under Construction - Docker|Check Explanations]]

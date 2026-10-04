@@ -35,8 +35,6 @@ tags:
 	 - **Easy to provision**: Can be created and deleted quickly 
 	 - **Resizable**: CPU and memory can often be changed; storage can usually be expanded
 
----
-
 ## Storage
 
 ### Block Storage
@@ -52,8 +50,6 @@ Provides raw storage volumes, like a virtual hard drive
 
 Think of it as plugging an external SSD into your VM
 
----
-
 ### Object Storage
 
 Stores unstructured data as objects (data + metadata)
@@ -68,8 +64,6 @@ Stores unstructured data as objects (data + metadata)
 
 Think of it as a web-accessible bucket of files
 
----
-
 ### File Storage
 
 Provides a shared file system over a network
@@ -82,8 +76,6 @@ Provides a shared file system over a network
 Examples: Amazon EFS, DigitalOcean NFS
 
 Think of it as a networked shared folder
-
----
 
 ## Networking
 

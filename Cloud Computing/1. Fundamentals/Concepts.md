@@ -5,7 +5,7 @@ tags:
   - fundamentals
 ---
 
-# 1. Cloud Computing
+# Cloud Computing
 
 **Cloud Computing**: On-demand access to shared computing resources (e.g. servers, storage, databases, networking, software) that can be quickly created, scaled, and released as needed.
 
@@ -19,8 +19,6 @@ tags:
 4. **Rapid elasticity**: Scale resources up or down quickly as demand changes.
 5. **Measured service**: Scale resources up or down quickly as demand changes. 
 
----
-
 ## On-Premises vs. Cloud 
 
 | Dimension                   | Traditional On-Premises                    | Cloud Computing (Public)                              |
@@ -29,8 +27,6 @@ tags:
 | **Getting Resources**       | Often requires purchasing and manual setup | Resources can be created on demand                    |
 | **Scalability**             | Limited by available local capacity        | Resources can scale with demand                       |
 | **Cost Model**              | Higher upfront investment                  | Often usage- or capacity-based                        |
-
----
 
 ## Cloud Deployment Models 
 
@@ -51,8 +47,6 @@ tags:
 	- Meet geographic or organizational requirements
 	- Trade-off: More providers also mean more operational complexity
 
----
-
 ## Benefits
 
 - **Cost Efficiency**: Lower upfront investment; pay for what you use
@@ -62,11 +56,11 @@ tags:
 
 ---
 
-# 2. Edge Computing
+# Edge Computing
 
 **Edge Computing**: A distributed computing model that places computation and storage closer to users or data sources.
 
-![[edge_computing.png]]
+![[edge-computing.png]]
 
 ## Complement, Not Replace 
 
@@ -76,7 +70,6 @@ tags:
 > 	- Its own edge network (Open Connect) stores popular video content closer to users 
 > 	- Reduce the distance video data must travel during streaming
 
----
 ## Edge Node 
 Computing resource located closer to users or data sources than a central cloud data center: 
 - Process data locally 
@@ -84,15 +77,11 @@ Computing resource located closer to users or data sources than a central cloud 
 - Reduce latency and network load 
 - Improve data privacy and resilience
 
----
-
 ## Benefits
 
 - **Lower Latency**: Process data closer to users and devices for faster response
 - **Bandwidth Efficiency**: Send less data to central cloud
 - **Resilience**: Continue some operation when cloud connectivity is limited or unavailable
-
----
 
 ## Challenges
 
@@ -125,8 +114,6 @@ Provides computing infrastructure (e.g., VMs, storage, networking).
 
 **Example**: DigitalOcean Droplets provide VMs that users can configure and manage
 
----
-
 ## Platform as a Service (PaaS)
 
 Provides a managed environment for deploying and running applications.
@@ -137,8 +124,6 @@ Provides a managed environment for deploying and running applications.
 - **Use Cases**: Web and mobile applications
 
 **Example**: Fly.io provides a managed platform for deploying applications across regions
-
----
 
 ## Software as a Service (SaaS) 
 
@@ -151,8 +136,6 @@ Provides ready-to-use software operated by the provider.
 
 **Example**: Google Workspace
 
----
-
 ## IaaS vs. PaaS vs. SaaS
 
 | Feature               | IaaS                      | PaaS                                     | SaaS                           |
@@ -161,11 +144,10 @@ Provides ready-to-use software operated by the provider.
 | **User Manages**      | OS, runtime, applications | Application and configuration            | Data and settings              |
 | **Control**           | Higher                    | Medium                                   | Lower                          |
 | **Management Effort** | Higher                    | Medium                                   | Lower                          |
-
----
+|                       |                           |                                          |                                |
 
 ## Abstraction
-![[abstraction_of_cloud_service_models.png]]
+![[abstraction-of-cloud-service-models.png]]
 
 ---
 
