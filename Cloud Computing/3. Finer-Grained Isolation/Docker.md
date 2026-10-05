@@ -1,10 +1,12 @@
 ---
 tags:
-  - cloud-computing
   - docker
-  - containers
   - docker-compose
-  - devops
+  - installation
+  - docker-desktop
+  - docker-engine
+  - docker-workflow
+  - docker-architecture
 ---
 
 
@@ -35,3 +37,14 @@ An open platform for building, sharing, and running containerized applications.
 
 [[Docker Workflow|Check Explanations]]
 
+---
+
+# Docker Architecture
+
+[[Docker Architecture|Check Explanations]]
+
+---
+
+# Docker Compose
+
+[[Docker Compose|Check Explanations]]

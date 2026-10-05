@@ -19,6 +19,13 @@ Containerization ensures consistent environments:
 	- Each container starts from the same packaged runtime environment (same runtime, libraries, dependencies, ...)
 - Fewer environment differences $\rightarrow$ more consistent application behavior
 
+**Problems of one big container**
+- **Lifecycle**: Cannot restart or scale components independently
+- **Maintenance**: Updating one service may require rebuilding the whole image
+- **Reuse**: Services are tightly coupled and harder to reuse independently
+$\implies$ ***One container per responsibility***
+**Challenge**: Managing multiple containers manually with `docker run` quickly becomescomplex and error-prone ([[Docker Compose]])
+
 ## Container
 an isolated runtime instance created from that image.
 
@@ -44,4 +51,4 @@ Containers integrate naturally with cloud service models:
 
 # Docker
 
-[[Under Construction - Docker|Check Explanations]]
+[[Docker|Check Explanations]]

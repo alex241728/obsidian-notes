@@ -1,7 +1,6 @@
 ---
 tags:
   - docker-desktop
-  - docker
 ---
 
 Provides a Linux environment for running **Linux containers** on macOS and Windows
